@@ -30,7 +30,7 @@ function App() {
 
       <section className="hero">
         <h2>Welcome to Afsarbabu</h2>
-        <p>Afsar Bano with Smart Study!</p>
+        <p>अवसर से अफसर तक ...</p>
         <button onClick={scrollToContact}>Get Started</button>
       </section>
 
